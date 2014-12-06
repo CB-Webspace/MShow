@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+.textbox{
+    text-align: center;
+    width: 300px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}

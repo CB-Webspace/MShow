@@ -8,5 +8,14 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
+    clear:both;
+}
+#textbox2 {
+    text-align: center;
+    width: 300px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    clear:both;
 }
